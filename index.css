@@ -5,6 +5,7 @@ body {
     font-family: 'Cursed Timer ULiL', sans-serif ;
     font-weight: bold;
     padding: 30px 25px;
+    height:100vh;
 }
 
 .container {
