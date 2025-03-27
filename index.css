@@ -26,6 +26,7 @@ body {
     text-align: center;
     border-radius: 5px;
     font-size:xx-large;
+    height: 100vh;
 }
 
 #guest {
